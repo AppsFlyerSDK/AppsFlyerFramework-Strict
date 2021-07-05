@@ -11,7 +11,6 @@ let package = Package(
     dependencies: [
     ],
     targets: [
-        .binaryTarget(name: "AppsFlyerLib", path: "AppsFlyerLib.xcframework"),
         .binaryTarget(
             name: "AppsFlyerLib",
             url: "https://github.com/AppsFlyerSDK/AppsFlyerFramework/releases/download/6.3.3/AppsFlyerLib-Strict.xcframework.zip",

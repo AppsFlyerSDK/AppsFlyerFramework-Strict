@@ -11,8 +11,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "AppsFlyerLib",
-            url: "https://github.com/AppsFlyerSDK/AppsFlyerFramework/releases/download/6.12.2/AppsFlyerLib-Strict.xcframework.zip",
-            checksum: "5334877a90bd3e0484b6eeda0e8cd5aa2d29d4763e53017b3937df5091be26b9"
+            url: "https://github.com/AppsFlyerSDK/AppsFlyerFramework/releases/download/6.12.3/AppsFlyerLib-Strict.xcframework.zip",
+            checksum: "4021a33f3328afa3d8d735d846d7ce4cb9d9013120449307beb4c2f38729e564"
         )
     ]
 )
